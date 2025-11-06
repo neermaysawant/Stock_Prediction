@@ -48,7 +48,7 @@ The program provides:
 Feel free to fork this repository and submit pull requests for any improvements.
 
 ## License
-This project is open source and available under the MIT License.
+This project is open source.
 
 ## Disclaimer
 This tool is for educational purposes only. Stock market investments carry risks, and decisions should not be made solely based on this prediction model.
