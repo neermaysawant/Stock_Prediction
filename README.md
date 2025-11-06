@@ -18,6 +18,15 @@ A Python-based stock price prediction tool that uses Linear Regression to foreca
 1. Clone this repository
 2. Install the required packages:
 
+```bash
+pip install numpy
+pip install pandas
+pip install yfinance
+pip install scikit-learn
+pip install matplotlib
+pip install seaborn
+```
+
 ## Usage
 1. Run the script:
 2. Follow the interactive prompts:
